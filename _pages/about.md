@@ -28,6 +28,15 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 <br /><b>TLNR</b>:We propose a new retrieval-augmented neural commit message generation method, which treats the retrieved similar commit as an exemplar and leverages it to generate an accurate commit message.  </small>
 </p>
 
+
+<p><b>A Large-Scale Empirical Study of Commit Message Generation: Models, Datasets and Evaluation</b> 
+<br><small>
+<i>EMSE2022 <a href="">[pdf]</a> <a href="">[code]</a></i>
+<br />
+ Wei Tao, Yanlin Wang, <u>Ensheng Shi</u>, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Wenqiang Zhang
+<br /><b>TLNR</b>: To achieve a better understanding of how the existing approaches perform in solving this problem, this paper conducts a systematic and in-depth analysis of the state-of-the-art models and datasets.</small>
+</p>
+
 ### 2021
 
 <p><b>On the Evaluation of Neural Code Summarization</b> <br>
