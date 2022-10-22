@@ -22,7 +22,7 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 ### 2022
 <p><b>RACE: Retrieval-augmented Commit Message Generation</b> 
 <br><small>
-<i>EMNLP2022 <a href="">[pdf]</a> <a href="">[code]</a></i>
+<i>EMNLP2022 <a href="https://arxiv.org/abs/2203.02700">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/RACE">[code]</a></i>
 <br />
 <u>Ensheng Shi</u>, Yanlin Wang, Wei Tao, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
 <br /><b>TLNR</b>:We propose a new retrieval-augmented neural commit message generation method, which treats the retrieved similar commit as an exemplar and leverages it to generate an accurate commit message.  </small>
@@ -31,13 +31,11 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 
 <p><b>A Large-Scale Empirical Study of Commit Message Generation: Models, Datasets and Evaluation</b> 
 <br><small>
-<i>EMSE2022 <a href="">[pdf]</a> <a href="">[code]</a></i>
+<i>EMSE2022 <a href="">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical">[code]</a></i>
 <br />
  Wei Tao, Yanlin Wang, <u>Ensheng Shi</u>, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
 <br /><b>TLNR</b>: To achieve a better understanding of how the existing approaches perform in solving this problem, this paper conducts a systematic and in-depth analysis of the state-of-the-art models and datasets.</small>
 </p>
-
-### 2021
 
 <p><b>On the Evaluation of Neural Code Summarization</b> <br>
 <small>
@@ -61,6 +59,10 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 </details>
 </small>
 </p>
+
+### 2021
+
+
 
 <p><b>CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees</b> 
 <br><small>
