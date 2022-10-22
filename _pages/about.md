@@ -25,7 +25,7 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 <i>EMNLP2022 <a href="https://arxiv.org/abs/2203.02700">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/RACE">[code]</a></i>
 <br />
 <u>Ensheng Shi</u>, Yanlin Wang, Wei Tao, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
-<br /><b>TLNR</b>:We propose a new retrieval-augmented neural commit message generation method, which treats the retrieved similar commit as an exemplar and leverages it to generate an accurate commit message.  </small>
+<br /><b>TLNR</b>: We propose a new retrieval-augmented neural commit message generation method, which treats the retrieved similar commit as an exemplar and leverages it to generate an accurate commit message.  </small>
 </p>
 
 
