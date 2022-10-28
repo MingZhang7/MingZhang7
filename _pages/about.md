@@ -31,7 +31,7 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 
 <p><b>A Large-Scale Empirical Study of Commit Message Generation: Models, Datasets and Evaluation</b> 
 <br><small>
-<i>EMSE2022 <a href="">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical">[code]</a></i>
+<i>EMSE2022 <a href="https://link.springer.com/article/10.1007/s10664-022-10219-1">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical">[code]</a></i>
 <br />
  Wei Tao, Yanlin Wang, <u>Ensheng Shi</u>, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
 <br /><b>TLNR</b>: To achieve a better understanding of how the existing approaches perform in solving this problem, this paper conducts a systematic and in-depth analysis of the state-of-the-art models and datasets.</small>
