@@ -47,13 +47,16 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 <details>
 <summary></summary>
 <ul>
+<li> The BLEU metric widely used in existing work of evaluating code summarization models has many variants. Ignoring the differences among these variants could greatly affect the validity of the claimed results.</li>
 <li> BLEU_DC (sentence BLEU with smoothing method 4) is most correlated to human perception on the evaluation of neural code summarization model among the 6 widely used BLEU variants.
 </li>
+<li> Code pre-processing choices can have a large (from -18\% to +25\%) impact on the summarization performance and should not be neglected.</li>
 <li> Performing S (identifier splitting) is always significantly better than not performing it. And different code pre-processing has a large impact on performance (-18\% to +25\%)
 </li>
-<li> To more comprehensively evaluate different models, it is recommended to use multiple datasets, as rank among models can be inconsistent on different datasets.
-</li>
-<li>More findings of the evaluated metric, code pre-processing operations, evaluated datasets(the data size, splitting way, and duplication ratio )
+<li> 
+Some important characteristics of datasets (corpus sizes, data splitting methods, and duplication ratios) have a significant impact on model evaluation.  
+</li> 
+<li> Based on the experimental results, we give actionable suggestions for evaluating code summarization and choosing the best method in different scenarios. We also build a shared code summarization toolbox to facilitate future research.
 </li>
 </ul>
 </details>
