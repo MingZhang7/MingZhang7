@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Ensheng Shi"
+title                    : "Ming Zhang"
 title_separator          : "-"
-name                     : &name "Ensheng Shi"
+name                     : &name "Ming Zhang"
 description              : &description "personal description"
 url                      : https://EnshengShi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
