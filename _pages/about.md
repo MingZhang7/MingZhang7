@@ -13,7 +13,7 @@ I am a Ph.D. Candidate, supervised by Guanghui Wang at  Operational Research and
 My research areas currently include: （1）Game Theory
 （2）Complex Network. （3）Deep Learning and Graph Neural Network
 
-
+update
 ## Publications
 
 [1] Ming Zhang, Xu Zhang, Cunquan Qu, Guanghui Wang, and Xin Lu. The combination of social reward and   punishment is conducive to the cooperation and heterogeneity of a population structure. Chaos: An Interdisciplinary Journal of Nonlinear Science, 2022. 32:103104.
@@ -65,21 +65,24 @@ My research areas currently include: （1）Game Theory
 
 ## Visiting Experiences
 
- <td align="left"><h3>
+<ul>
+<li>
 2022.01 – 2022.06          Microsoft Research Asia, Beijing. 
-</td>
+</li>
 
- <td align="left"><h3>
+<li>
 2019.12 – 2020.05          Peng Cheng Laboratory, Shenzhen.
-</td>
+</li>
 
- <td align="left"><h3>
+<li>
 2018.09 – 2018.10          School of Mathematics and Statistics, Yunnan University.
-</td>
+</li>
 
- <td align="left"><h3>
+<li>
 2017.02 – 2017.08          Alibaba Research Center for Complexity Sciences, Hangzhou Normal University
-</td>
+</li>
+
+</ul>
 
 ## Experiences
 
