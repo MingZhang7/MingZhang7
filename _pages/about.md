@@ -23,9 +23,9 @@ My research areas currently include:（1）Game Theory;
 
 [4]   Bo Bai, Yuting Liu, Chicheng Ma, Guanghui Wang, Guiying Yan, Kai Yan, Ming Zhang, and Zhiheng Zhou. Graph neural network (in Chinese). Scientia Sinica (Mathematica), 2020.50(03): 367–384.
 
-[5]   Ming Zhang, Qi Meng, Deng Zhang, Yue Wang, Guanghui Wang, Zhiming Ma, Li Chen, and Tie-Yan Liu. Complex-valued neural operator assisted soliton identification. Submitted to Physical Review A, 2022. (Under revision)
+<!-- [5]   Ming Zhang, Qi Meng, Deng Zhang, Yue Wang, Guanghui Wang, Zhiming Ma, Li Chen, and Tie-Yan Liu. Complex-valued neural operator assisted soliton identification.
 
-[6]  Ming Zhang, Weina Xu, Cunquan Qu, Guanghui Wang, Yamir Moreno, Xiangrong Wang. Graph neural networks for predicting diffusion dynamics in networks. (In preparation)
+[6]  Ming Zhang, Weina Xu, Cunquan Qu, Guanghui Wang, Yamir Moreno, Xiangrong Wang. Graph neural networks for predicting diffusion dynamics in networks.  -->
 
 
 
