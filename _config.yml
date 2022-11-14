@@ -11,9 +11,9 @@ title                    : "Ming Zhang"
 title_separator          : "-"
 name                     : &name "Ming Zhang"
 description              : &description "personal description"
-url                      : https://EnshengShi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : MingZhang7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "s1530129650/EnshengShi.github.io"
+repository               : "MingZhang7/MingZhang7.github.ioo"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ensheng Shi (石恩升)"
-  avatar           : "ensheng.jpg"
-  bio              : "The fourth-year PHD at Xi'an Jiaotong University"
-  location         : "Beijing China"
+  name             : "Ming Zhang(张明))"
+  avatar           : "ming.jpg"
+  bio              : "The fifth-year PHD at Shandong University"
+  location         : "Jinan, P.R.China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=LNYpsr0AAAAJ&hl=zh-CN"
-  email            : "s1530129650@stu.xjtu.edu.cn"
+  googlescholar    : ""
+  email            : "MingZhang@mail.sdu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "s1530129650"
+  github           : "MingZhang7"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "shi-ensheng-1b4915171/"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-5543-2025"
+  linkedin         : ""
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  csdn             : "https://blog.csdn.net/qq_36097393"
+  csdn             : ""
   wikipedia        :
 
 
