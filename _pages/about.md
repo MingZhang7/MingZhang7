@@ -33,7 +33,7 @@ My research areas currently include:（1）Game Theory;
 ## Educations
 
 <td align="left"><h3>
-2017.09 – Now <a href="http://en.xjtu.edu.cn/">Shandong University</a> </h3>
+2017.09 – Now <a href="https://www.en.sdu.edu.cn/">Shandong University</a> </h3>
 <ul>
 <li><p>Ph.D. Candidate</p>
 </li>
@@ -43,7 +43,7 @@ My research areas currently include:（1）Game Theory;
 </td>
 
 <td align="left"><h3>
-2013.09 – 2017.06 <a href="http://en.xjtu.edu.cn/">Information and Computing Science, College of Science, </a> </h3>
+2013.09 – 2017.06 <a href="https://www.en.sdu.edu.cn/">Information and Computing Science, College of Science, </a> </h3>
 <ul>
 <li><p>Outstanding Graduate</p>
 </li>
