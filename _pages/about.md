@@ -41,7 +41,7 @@ My research areas currently include: （1）Game Theory
 
 ## Educations
 
- <td align="left"><h3>
+<td align="left"><h3>
 2017.09 – Now <a href="http://en.xjtu.edu.cn/">Shandong University</a> </h3>
 <ul>
 <li><p>Ph.D. Candidate</p>
