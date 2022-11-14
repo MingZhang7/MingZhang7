@@ -10,8 +10,8 @@ redirect_from:
 
 I am a Ph.D. Candidate, supervised by Guanghui Wang at  Operational Research and Cybernetics, School of Mathematics, Shandong University.
 
-My research areas currently include: （1）Game Theory
-（2）Complex Network. （3）Deep Learning and Graph Neural Network
+My research areas currently include:（1）Game Theory;
+（2）Complex Network;（3）Deep Learning and Graph Neural Network.
 
 
 ## Publications
