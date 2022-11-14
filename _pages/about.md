@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
 
 I am a Ph.D. Candidate, supervised by Guanghui Wang at  Operational Research and Cybernetics, School of Mathematics, Shandong University.
 
