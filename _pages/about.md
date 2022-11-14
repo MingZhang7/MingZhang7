@@ -64,9 +64,11 @@ My research areas currently include: （1）Game Theory
 
 
 ## Visiting Experiences
+
  <td align="left"><h3>
 2022.01 – 2022.06          Microsoft Research Asia, Beijing. 
 </td>
+
  <td align="left"><h3>
 2019.12 – 2020.05          Peng Cheng Laboratory, Shenzhen.
 </td>
@@ -74,11 +76,13 @@ My research areas currently include: （1）Game Theory
  <td align="left"><h3>
 2018.09 – 2018.10          School of Mathematics and Statistics, Yunnan University.
 </td>
+
  <td align="left"><h3>
 2017.02 – 2017.08          Alibaba Research Center for Complexity Sciences, Hangzhou Normal University
 </td>
 
 ## Experiences
+
 <ul>
 <li>
 2021.01 – 2024.12     Research on enterprise R&D strategy based on contest theory
@@ -91,6 +95,7 @@ Contributions: Research on the combination of contest theory and nonlinear theor
 
 
 </li>
+
 <li>
 2021.04 – 2022.03     High-performance graph computing project
 
@@ -106,37 +111,44 @@ Contributions: K-hop algorithm
 
 ## Academic Activities
 
+<ul>
+<li>2022 Shannon Forum—Seminar on Information Theory and Graph Algorithm Technology (Oral report)
+</li><li>2022 Workshop on "Causal Inference and Machine Learning" in Chinese Academy of Sciences
+</li><li>The 12th Chinese Mathematical Society Computer Mathematics Conference in Guilin (Oral report)
+</li><li>2021 "Graph Network and Application" Conference in Ocean University of China
+</li><li>2020 Future Network Theory Conference in Chinese Academy of Sciences (Oral report)
+</li><li>2020 International school and Conference on Network Science in Japan
+</li><li>2019 Seminar on Graph Mining and Graph Neural Networks in Chinese Academy of Sciences
+</li><li>2019 Academic Exchange Activities of Graphs and Combination in Xi'an (Oral report) 
+</li><li>The 15th Chinese Conference on Complex Networks in Jiangsu University
+</li><li>The 17th Annual Meeting of the Chinese Society of Industrial and Applied Mathematics in Foshan (Oral report)
+</li><li>2019 International Summer School Scientific Computing in Chinese Academy of Sciences
+</li><li>The 2nd Chinese Conference on Big Data and Artificial Intelligence Science in Kunming
+</li><li>The 15th China Network Science Forum in Dalian University of Technology
+</li><li>2018 Graph network and machine learning seminar in Chinese Academy of Sciences (Oral report)
+</li><li>The 13th China Network Science Forum in Beijing Jiaotong University
+</li><li>2016 Complex Network Frontier Forum in Shanghai University
+</ul>
 
-* 2022 Shannon Forum—Seminar on Information Theory and Graph Algorithm Technology (Oral report)
-* 2022 Workshop on "Causal Inference and Machine Learning" in Chinese Academy of Sciences
-* The 12th Chinese Mathematical Society Computer Mathematics Conference in Guilin (Oral report)
-* 2021 "Graph Network and Application" Conference in Ocean University of China
-* 2020 Future Network Theory Conference in Chinese Academy of Sciences (Oral report)
-* 2020 International school and Conference on Network Science in Japan
-* 2019 Seminar on Graph Mining and Graph Neural Networks in Chinese Academy of Sciences
-* 2019 Academic Exchange Activities of Graphs and Combination in Xi'an (Oral report) 
-* The 15th Chinese Conference on Complex Networks in Jiangsu University
-* The 17th Annual Meeting of the Chinese Society of Industrial and Applied Mathematics in Foshan (Oral report)
-* 2019 International Summer School Scientific Computing in Chinese Academy of Sciences
-* The 2nd Chinese Conference on Big Data and Artificial Intelligence Science in Kunming
-* The 15th China Network Science Forum in Dalian University of Technology
-* 2018 Graph network and machine learning seminar in Chinese Academy of Sciences (Oral report)
-* The 13th China Network Science Forum in Beijing Jiaotong University
-* 2016 Complex Network Frontier Forum in Shanghai University
 
 ## Awards
 
-* Stars of Tomorrow, Microsoft Research Asia,2022
-* First-class Scholarship, Shandong University, 2020 & 2021
-* Outstanding Postgraduate, Shandong University, 2018,2019 & 2020
-* Award for Excellent Freshman, Shandong University, 2017
-* Undergraduate Innovation Paper (Design) Award, Huazhong Agricultural University, 2017
-* Outstanding Undergraduate Graduate, Huazhong Agricultural University, 2017
-* Meritorious Winner of American Undergraduate Interdisciplinary Contest in Modeling, COMAP, 2016
-* National Second Prize of China Undergraduate Mathematical Contest in Modeling, CSIAM,2015
-* National Scholarship, Ministry of Education of the People's Republic of China, 2015
-* National Encouragement Scholarship, Huazhong Agricultural University, 2014
+<ul>
+</li><li>Stars of Tomorrow, Microsoft Research Asia,2022
+</li><li>First-class Scholarship, Shandong University, 2020 & 2021
+</li><li>Outstanding Postgraduate, Shandong University, 2018,2019 & 2020
+</li><li>Award for Excellent Freshman, Shandong University, 2017
+</li><li>Undergraduate Innovation Paper (Design) Award, Huazhong Agricultural University, 2017
+</li><li>Outstanding Undergraduate Graduate, Huazhong Agricultural University, 2017
+</li><li>Meritorious Winner of American Undergraduate Interdisciplinary Contest in Modeling, COMAP, 2016
+</li><li>National Second Prize of China Undergraduate Mathematical Contest in Modeling, CSIAM,2015
+</li><li>National Scholarship, Ministry of Education of the People's Republic of China, 2015
+</li><li>National Encouragement Scholarship, Huazhong Agricultural University, 2014
+</ul>
 
 ## Skills
-* Languages: Python, C/C++, Matlab, Java
-* Deep Learning Frameworks: Pytorch
+
+<ul>
+</li><li>Languages: Python, C/C++, Matlab, Java
+</li><li>Deep Learning Frameworks: Pytorch
+</ul>
