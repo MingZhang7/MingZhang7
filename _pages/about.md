@@ -130,15 +130,19 @@ Contributions: K-hop algorithm
 </li><li>The 15th China Network Science Forum in Dalian University of Technology
 </li><li>2018 Graph network and machine learning seminar in Chinese Academy of Sciences (Oral report)
 </li><li>The 13th China Network Science Forum in Beijing Jiaotong University
-</li><li>2016 Complex Network Frontier Forum in Shanghai University
+</li>
+<li>
+2016 Complex Network Frontier Forum in Shanghai University
+</li>
 </ul>
 
 
 ## Awards
 
 <ul>
-</li><li>Stars of Tomorrow, Microsoft Research Asia,2022
-</li><li>First-class Scholarship, Shandong University, 2020 & 2021
+<li>Stars of Tomorrow, Microsoft Research Asia,2022
+</li>
+<li>First-class Scholarship, Shandong University, 2020 & 2021
 </li><li>Outstanding Postgraduate, Shandong University, 2018,2019 & 2020
 </li><li>Award for Excellent Freshman, Shandong University, 2017
 </li><li>Undergraduate Innovation Paper (Design) Award, Huazhong Agricultural University, 2017
@@ -147,11 +151,16 @@ Contributions: K-hop algorithm
 </li><li>National Second Prize of China Undergraduate Mathematical Contest in Modeling, CSIAM,2015
 </li><li>National Scholarship, Ministry of Education of the People's Republic of China, 2015
 </li><li>National Encouragement Scholarship, Huazhong Agricultural University, 2014
+</li>
 </ul>
 
 ## Skills
 
 <ul>
-</li><li>Languages: Python, C/C++, Matlab, Java
-</li><li>Deep Learning Frameworks: Pytorch
+<li>
+Languages: Python, C/C++, Matlab, Java
+</li>
+<li>
+Deep Learning Frameworks: Pytorch
+</li>
 </ul>
