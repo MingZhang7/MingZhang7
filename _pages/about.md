@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 I am a Ph.D. Candidate, supervised by Guanghui Wang at  Operational Research and Cybernetics, School of Mathematics, Shandong University.
 
 My research areas currently include:（1）Game Theory;
@@ -30,14 +29,6 @@ My research areas currently include:（1）Game Theory;
 
 
 
-<!-- 
-<p><b>The combination of social reward and   punishment is conducive to the cooperation and heterogeneity of a population structure.</b> 
-<br><small>
-<i>Chaos: An Interdisciplinary Journal of Nonlinear Science, 2022. 32:103104.</i>
-<br />
-<u>Ming Zhang</u>, Xu Zhang, Cunquan Qu, Guanghui Wang, and Xin Lu. 
-<br />
-</p> -->
 
 ## Educations
 
