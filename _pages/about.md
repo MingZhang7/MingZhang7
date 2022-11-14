@@ -7,160 +7,137 @@ redirect_from:
   - /about/
   - /about.html
 ---
+About me
 
-I am a XXXXXXXXXXXXX
+I am a Ph.D. Candidate, supervised by Guanghui Wang at  Operational Research and Cybernetics, School of Mathematics, Shandong University.
 
-My research areas currently include: XXXXXXXXXXXXX
-
-
+My research areas currently include: （1）Game Theory
+（2）Complex Network. （3）Deep Learning and Graph Neural Network
 
 
 ## Publications
 
-### 2022
-<p><b>RACE: Retrieval-augmented Commit Message Generation</b> 
+[1] Ming Zhang, Xu Zhang, Cunquan Qu, Guanghui Wang, and Xin Lu. The combination of social reward and   punishment is conducive to the cooperation and heterogeneity of a population structure. Chaos: An Interdisciplinary Journal of Nonlinear Science, 2022. 32:103104.
+
+[2]   Ming Zhang, Guanghui Wang, Jin Xu, and Cunquan Qu. Dynamic contest model with bounded rationality. Applied Mathematics and Computation, 2020.370: 124909.
+
+[3]   Cunquan Qu*, Chenlu Ji, and Ming Zhang*. Evolutionary game model with group decision-making in signed social networks. IEEE Transactions on Computational Social Systems, 2022. DOI: 10.1109/TCSS.2022.3209877.
+
+[4]   Bo Bai, Yuting Liu, Chicheng Ma, Guanghui Wang, Guiying Yan, Kai Yan, Ming Zhang, and Zhiheng Zhou. Graph neural network (in Chinese). Scientia Sinica (Mathematica), 2020.50(03): 367–384.
+
+[5]   Ming Zhang, Qi Meng, Deng Zhang, Yue Wang, Guanghui Wang, Zhiming Ma, Li Chen, and Tie-Yan Liu. Complex-valued neural operator assisted soliton identification. Submitted to Physical Review A, 2022. (Under revision)
+
+[6]  Ming Zhang, Weina Xu, Cunquan Qu, Guanghui Wang, Yamir Moreno, Xiangrong Wang. Graph neural networks for predicting diffusion dynamics in networks. (In preparation)
+
+
+
+<!-- 
+<p><b>The combination of social reward and   punishment is conducive to the cooperation and heterogeneity of a population structure.</b> 
 <br><small>
-<i>EMNLP2022 <a href="https://arxiv.org/abs/2203.02700">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/RACE">[code]</a></i>
+<i>Chaos: An Interdisciplinary Journal of Nonlinear Science, 2022. 32:103104.</i>
 <br />
-<u>Ensheng Shi</u>, Yanlin Wang, Wei Tao, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
-<br /><b>TLNR</b>: We propose a new retrieval-augmented neural commit message generation method, which treats the retrieved similar commit as an exemplar and leverages it to generate an accurate commit message.  </small>
-</p>
-
-
-<p><b>A Large-Scale Empirical Study of Commit Message Generation: Models, Datasets and Evaluation</b> 
-<br><small>
-<i>EMSE2022 <a href="https://link.springer.com/article/10.1007/s10664-022-10219-1">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical">[code]</a></i>
+<u>Ming Zhang</u>, Xu Zhang, Cunquan Qu, Guanghui Wang, and Xin Lu. 
 <br />
- Wei Tao, Yanlin Wang, <u>Ensheng Shi</u>, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
-<br /><b>TLNR</b>: To achieve a better understanding of how the existing approaches perform in solving this problem, this paper conducts a systematic and in-depth analysis of the state-of-the-art models and datasets.</small>
-</p>
-
-<p><b>On the Evaluation of Neural Code Summarization</b> <br>
-<small>
-<i>ICSE2022 <a href="https://arxiv.org/abs/2107.07112">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CodeSumEvaluation">[code]</a><a href="https://zhuanlan.zhihu.com/p/443994857">[blog]</a></i>
-<br />
-<u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Junjie Chen, Shi Han, Hongyu Zhang, Dongmei Zhang, Hongbin Sun 
-<br /><b>TLNR</b>: Some interesting and surprising findings on the evaluated metric, code-preprocessing, and evaluated datasets. Building a shared code summarization toolbox andgiving actionable suggestions on the evaluation of neural code summarization. 
-<br />
-<details>
-<summary></summary>
-<ul>
-<li> The BLEU metric widely used in existing work of evaluating code summarization models has many variants. Ignoring the differences among these variants could greatly affect the validity of the claimed results.</li>
-<li> BLEU_DC (sentence BLEU with smoothing method 4) is most correlated to human perception on the evaluation of neural code summarization model among the 6 widely used BLEU variants.
-</li>
-<li> Code pre-processing choices can have a large (from -18\% to +25\%) impact on the summarization performance and should not be neglected.</li>
-<li> Performing S (identifier splitting) is always significantly better than not performing it. And different code pre-processing has a large impact on performance (-18\% to +25\%)
-</li>
-<li> 
-Some important characteristics of datasets (corpus sizes, data splitting methods, and duplication ratios) have a significant impact on model evaluation.  
-</li> 
-<li> Based on the experimental results, we give actionable suggestions for evaluating code summarization and choosing the best method in different scenarios. We also build a shared code summarization toolbox to facilitate future research.
-</li>
-</ul>
-</details>
-</small>
-</p>
-
-### 2021
-
-
-
-<p><b>CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees</b> 
-<br><small>
-<i>EMNLP2021 <a href="https://aclanthology.org/2021.emnlp-main.332.pdf">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CAST">[code]</a></i>
-<br />
-<u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
-<br /><b>TLNR</b>: Our model hierarchically
-splits and reconstructs ASTs to obtain the better code representation for code summarization.</small>
-</p>
-
-<p><b>Is a Single Model Enough? MuCoS: A Multi-Model Ensemble Learning Approach for Semantic Code Search</b> 
-<br><small>
-<i>CIKM 2021 <a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482127">[pdf]</a> <a href="https://github.com/Xzh0u/MuCoS">[code]</a></i>
-<br />
- Lun Du, Xiaozhou Shi, Yanlin Wang, <u>Ensheng Shi</u>,  Shi Han, Dongmei Zhang
-<br /><b>TLNR</b>: Ensembling three models which focus on the structure of code , local variables, and the information of API invocation, separately, for semantic code search.</small>
-</p>
-
-<p><b>On the Evaluation of Commit Message Generation Models: An Experimental Study</b> 
-<br><small>
-<i>ICSME 2021 <a href="https://ieeexplore.ieee.org/abstract/document/9609189">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical">[code]</a></i>
-<br />
- Wei tao, Yanlin Wang, <u>Ensheng Shi</u>, Lun Du, Shi Han, Dongmei Zhang, Wenqiang Zhang
-<br /><b>TLNR</b>: We conduct the empirical study on evaluated metrics and existing datasets. We
-also collect a large-scale, information-rich, and multi-language
-commit message dataset MCMD and evaluate existing models
-on this dataset. </small>
-</p>
-
-### 2020
-<p><b>CoCoGUM: Contextual Code Summarization with
-Multi-Relational GNN on UMLs</b> 
-<br><small>
-<i>MSR-TR 2020 <a href="https://www.microsoft.com/en-us/research/uploads/prod/2020/05/CoCoGUM-TR.pdf">[pdf]</a> </i>
-<br />
-Yanlin Wang, Lun Du, <u>Ensheng Shi</u>, Yuxuan Hu, Shi Han, Dongmei Zhang
-<br /><b>TLNR</b>: We explore modeling two global
-contexts: intra-class level context and inter-class level context for code summarization.</small>
-</p>
+</p> -->
 
 ## Educations
 
  <td align="left"><h3>
-2019.8 ~ Present: <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a> </h3>
+2017.09 – Now <a href="http://en.xjtu.edu.cn/">Shandong University</a> </h3>
 <ul>
-<li><p>MSRA-XJTU Joint PHD</p>
+<li><p>Ph.D. Candidate</p>
 </li>
-<li><p>The College of Artificial Intelligence</p>
+<li><p>Operational Research and Cybernetics, School of Mathematics, </p>
 </li>
 </ul>
 </td>
 
 <td align="left"><h3>
-2015.8 ~ 2019.7: <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a> </h3>
+2013.09 – 2017.06 <a href="http://en.xjtu.edu.cn/">Information and Computing Science, College of Science, </a> </h3>
 <ul>
 <li><p>Outstanding Graduate</p>
 </li>
-<li><p>Automatic Science and Technology</p>
+<li><p>Huazhong Agricultural University.</p>
 </li>
 </ul>
+</td>
+
+
+
+## Visiting Experiences
+ <td align="left"><h3>
+2022.01 – 2022.06          Microsoft Research Asia, Beijing. 
+</td>
+ <td align="left"><h3>
+2019.12 – 2020.05          Peng Cheng Laboratory, Shenzhen.
+</td>
+
+ <td align="left"><h3>
+2018.09 – 2018.10          School of Mathematics and Statistics, Yunnan University.
+</td>
+ <td align="left"><h3>
+2017.02 – 2017.08          Alibaba Research Center for Complexity Sciences, Hangzhou Normal University
 </td>
 
 ## Experiences
 <ul>
 <li>
-Research Intern in Microsoft Research Asia<br>
-Advised by Dongmei Zhang, Shi Han, & Yanlin Wang in Data, Knowledge, and Intelligence group, from Jun 2020 to Present.
+2021.01 – 2024.12     Research on enterprise R&D strategy based on contest theory
+
+Project source: National Natural Science Foundation of China
+
+Project leader: Jin Xu
+
+Contributions: Research on the combination of contest theory and nonlinear theory
+
+
 </li>
 <li>
-Research Intern in Microsoft Research Asia<br>
-Advised by Dongmei Zhang, Shi Han, Zhouyu Fu, & Mengyu Zhou in Software Analytics group, from Nov 2018 to Aug 2019.
+2021.04 – 2022.03     High-performance graph computing project
+
+Project source: Cooperation between Huawei and Shandong University
+
+Project leader: Guanghui Wang
+
+Contributions: K-hop algorithm
+
 
 </li>
 </ul>
+
+## Academic Activities
+
+
+* 2022 Shannon Forum—Seminar on Information Theory and Graph Algorithm Technology (Oral report)
+* 2022 Workshop on "Causal Inference and Machine Learning" in Chinese Academy of Sciences
+* The 12th Chinese Mathematical Society Computer Mathematics Conference in Guilin (Oral report)
+* 2021 "Graph Network and Application" Conference in Ocean University of China
+* 2020 Future Network Theory Conference in Chinese Academy of Sciences (Oral report)
+* 2020 International school and Conference on Network Science in Japan
+* 2019 Seminar on Graph Mining and Graph Neural Networks in Chinese Academy of Sciences
+* 2019 Academic Exchange Activities of Graphs and Combination in Xi'an (Oral report) 
+* The 15th Chinese Conference on Complex Networks in Jiangsu University
+* The 17th Annual Meeting of the Chinese Society of Industrial and Applied Mathematics in Foshan (Oral report)
+* 2019 International Summer School Scientific Computing in Chinese Academy of Sciences
+* The 2nd Chinese Conference on Big Data and Artificial Intelligence Science in Kunming
+* The 15th China Network Science Forum in Dalian University of Technology
+* 2018 Graph network and machine learning seminar in Chinese Academy of Sciences (Oral report)
+* The 13th China Network Science Forum in Beijing Jiaotong University
+* 2016 Complex Network Frontier Forum in Shanghai University
 
 ## Awards
-<ul>
-<li>
-2019 Outstanding Graduate Award 
-</li>
-<li>
-2018 Elite Class Scholarship of Institute of Automation, China Academy of Sciences
-</li>
-<li>
-2018 Grateful Scientist Bursary
-</li>
-<li>
-2018 National Scholarship
-</li>
-<li>
-2017 Outstanding Volunteer Award
-</li>
-<li>2017 National  Encouragement Scholarship
-</li>
-<li>
-2016 First Prize of Mathematical Modeling Contest at Provincial Level
-</li>
-<li>2016 National  Encouragement Scholarship
-</li>
-</ul>
+
+* Stars of Tomorrow, Microsoft Research Asia,2022
+* First-class Scholarship, Shandong University, 2020 & 2021
+* Outstanding Postgraduate, Shandong University, 2018,2019 & 2020
+* Award for Excellent Freshman, Shandong University, 2017
+* Undergraduate Innovation Paper (Design) Award, Huazhong Agricultural University, 2017
+* Outstanding Undergraduate Graduate, Huazhong Agricultural University, 2017
+* Meritorious Winner of American Undergraduate Interdisciplinary Contest in Modeling, COMAP, 2016
+* National Second Prize of China Undergraduate Mathematical Contest in Modeling, CSIAM,2015
+* National Scholarship, Ministry of Education of the People's Republic of China, 2015
+* National Encouragement Scholarship, Huazhong Agricultural University, 2014
+
+## Skills
+* Languages: Python, C/C++, Matlab, Java
+* Deep Learning Frameworks: Pytorch
