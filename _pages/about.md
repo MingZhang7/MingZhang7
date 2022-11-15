@@ -76,44 +76,32 @@ My research areas currently include:（1）Game Theory;
 </ul>
 
 ## Experiences
+
 <td align="left">
-
-
 2021.01 – 2024.12     Research on enterprise R&D strategy based on contest theory
-
 <ul>
 <li>
 Project source: National Natural Science Foundation of China
 </li>
-
 <li>
 Project leader: Jin Xu
 </li>
-
 <li>
 Contributions: Research on the combination of contest theory and nonlinear theory
-
-
 </li>
 </ul>
 
 <td align="left">
-
 2021.04 – 2022.03     High-performance graph computing project
-
 <ul>
-<li><p>
-Project source: Cooperation between Huawei and Shandong University</p>
+<li>
+Project source: Cooperation between Huawei and Shandong University
 </li>
-
-<li><p>
-Project leader: Guanghui Wang</p>
+<li>
+Project leader: Guanghui Wang
 </li>
-
-<li><p>
+<li>
 Contributions: K-hop algorithm
-</p>
-
 </li>
 </ul>
 </tb>
