@@ -43,11 +43,11 @@ My research areas currently include:（1）Game Theory;
 </td>
 
 <td align="left"><h3>
-2013.09 – 2017.06 <a href="https://www.en.sdu.edu.cn/">Information and Computing Science, College of Science, </a> </h3>
+2013.09 – 2017.06 <a href="http://www.hzau.edu.cn/"> Huazhong Agricultural University</a> </h3>
 <ul>
 <li><p>Outstanding Graduate</p>
 </li>
-<li><p>Huazhong Agricultural University.</p>
+<li><p>Information and Computing Science, College of Science.</p>
 </li>
 </ul>
 </td>
@@ -76,32 +76,47 @@ My research areas currently include:（1）Game Theory;
 </ul>
 
 ## Experiences
+<td align="left">
+
+
+2021.01 – 2024.12     Research on enterprise R&D strategy based on contest theory
 
 <ul>
 <li>
-2021.01 – 2024.12     Research on enterprise R&D strategy based on contest theory
-
 Project source: National Natural Science Foundation of China
+</li>
 
+<li>
 Project leader: Jin Xu
+</li>
 
+<li>
 Contributions: Research on the combination of contest theory and nonlinear theory
 
 
 </li>
+</ul>
 
-<li>
+<td align="left">
+
 2021.04 – 2022.03     High-performance graph computing project
 
-Project source: Cooperation between Huawei and Shandong University
+<ul>
+<li><p>
+Project source: Cooperation between Huawei and Shandong University</p>
+</li>
 
-Project leader: Guanghui Wang
+<li><p>
+Project leader: Guanghui Wang</p>
+</li>
 
+<li><p>
 Contributions: K-hop algorithm
-
+</p>
 
 </li>
 </ul>
+</tb>
 
 ## Academic Activities
 
