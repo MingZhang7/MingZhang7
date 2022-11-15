@@ -37,7 +37,7 @@ My research areas currently include:（1）Game Theory;
 <ul>
 <li><p>Ph.D. Candidate</p>
 </li>
-<li><p>Operational Research and Cybernetics, School of Mathematics, </p>
+<li><p>Operational Research and Cybernetics, School of Mathematics. </p>
 </li>
 </ul>
 </td>
