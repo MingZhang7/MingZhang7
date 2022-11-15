@@ -75,7 +75,7 @@ My research areas currently include:（1）Game Theory;
 
 </ul>
 
-## Research Experiences
+## Research Project
 
 <td align="left">
 2021.01 – 2024.12     Research on enterprise R&D strategy based on contest theory
