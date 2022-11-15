@@ -104,7 +104,7 @@ Project leader: Guanghui Wang
 Contributions: K-hop algorithm
 </li>
 </ul>
-</tb>
+</td>
 
 ## Academic Activities
 
