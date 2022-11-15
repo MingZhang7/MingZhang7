@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -75,7 +75,7 @@ My research areas currently include:（1）Game Theory;
 
 </ul>
 
-## Projects Experiences
+## Project Experiences
 
 <td align="left">
 2021.01 – 2024.12     Research on enterprise R&D strategy based on contest theory
