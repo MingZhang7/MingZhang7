@@ -90,7 +90,7 @@ Project leader: Jin Xu
 Contributions: Research on the combination of contest theory and nonlinear theory
 </li>
 </ul>
-
+</td>
 <td align="left">
 2021.04 – 2022.03     High-performance graph computing project
 <ul>
