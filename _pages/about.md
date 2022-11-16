@@ -15,13 +15,13 @@ My research areas currently include:（1）Game Theory;
 
 ## Publications
 
-[1] Ming Zhang, Xu Zhang, Cunquan Qu, Guanghui Wang, and Xin Lu. The combination of social reward and   punishment is conducive to the cooperation and heterogeneity of a population structure. Chaos: An Interdisciplinary Journal of Nonlinear Science, 2022. 32:103104.
+[1] **Ming Zhang**, Xu Zhang, Cunquan Qu, Guanghui Wang, and Xin Lu. The combination of social reward and   punishment is conducive to the cooperation and heterogeneity of a population structure. Chaos: An Interdisciplinary Journal of Nonlinear Science, 2022. 32:103104.
 
-[2]   Ming Zhang, Guanghui Wang, Jin Xu, and Cunquan Qu. Dynamic contest model with bounded rationality. Applied Mathematics and Computation, 2020.370: 124909.
+[2]   **Ming Zhang**, Guanghui Wang, Jin Xu, and Cunquan Qu. Dynamic contest model with bounded rationality. Applied Mathematics and Computation, 2020.370: 124909.
 
-[3]   Cunquan Qu*, Chenlu Ji, and Ming Zhang*. Evolutionary game model with group decision-making in signed social networks. IEEE Transactions on Computational Social Systems, 2022. DOI: 10.1109/TCSS.2022.3209877.
+[3]   Cunquan Qu, Chenlu Ji, and **Ming Zhang**, Evolutionary game model with group decision-making in signed social networks. IEEE Transactions on Computational Social Systems, 2022. DOI: 10.1109/TCSS.2022.3209877.
 
-[4]   Bo Bai, Yuting Liu, Chicheng Ma, Guanghui Wang, Guiying Yan, Kai Yan, Ming Zhang, and Zhiheng Zhou. Graph neural network (in Chinese). Scientia Sinica (Mathematica), 2020.50(03): 367–384.
+[4]   Bo Bai, Yuting Liu, Chicheng Ma, Guanghui Wang, Guiying Yan, Kai Yan, **Ming Zhang**, and Zhiheng Zhou. Graph neural network (in Chinese). Scientia Sinica (Mathematica), 2020.50(03): 367–384.
 
 <!-- [5]   Ming Zhang, Qi Meng, Deng Zhang, Yue Wang, Guanghui Wang, Zhiming Ma, Li Chen, and Tie-Yan Liu. Complex-valued neural operator assisted soliton identification.
 
