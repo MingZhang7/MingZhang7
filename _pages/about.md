@@ -84,24 +84,24 @@ My research areas currently include:（1）Game Theory;
 Project source: National Natural Science Foundation of China
 </li>
 <li>
-Project leader: Jin Xu
+Project manager: Jin Xu
 </li>
 <li>
-Contributions: Research on the combination of contest theory and nonlinear theory
+My contributions: Research on the combination of contest theory and nonlinear theory
 </li>
 </ul>
 </td>
 <td align="left">
-2021.04 – 2022.03     High-performance graph computing project
+2021.04 – 2022.03   High-performance graph computing project
 <ul>
 <li>
 Project source: Cooperation between Huawei and Shandong University
 </li>
 <li>
-Project leader: Guanghui Wang
+Project manager: Guanghui Wang
 </li>
 <li>
-Contributions: K-hop algorithm
+My contributions: K-hop algorithm
 </li>
 </ul>
 </td>
